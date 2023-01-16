@@ -1,0 +1,24 @@
+body{
+	font-family: calibri;
+	margin:0px;
+	background-color: #4915f8;
+}
+.group{
+	color: white;
+	display: flex;
+	flex-direction: row; 
+	align-items: center;
+	border: 0px;
+}
+input[type='button']{
+	padding: 15px 20px;
+	font-size: 20px;
+	font-weight: bold;
+	border: 0px;
+	border-radius: 30px;
+	background-image: linear-gradient(to right, #f3a619,#ff6433);
+	color: white;
+}
+#phg_font_size{
+	font-size: 20px;
+}
